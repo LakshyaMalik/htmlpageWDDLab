@@ -1,0 +1,38 @@
+.iframe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2.5px solid purple;
+    border-radius: 20px;
+    flex-direction: column;
+    padding: 10px 5px;
+    box-sizing: border-box;
+}
+
+iframe{
+    width: 50vw;
+    height: 25vw;
+}
+
+.row{
+    display: block;
+    margin: 2vw;
+}
+
+.lyrics{
+    background-color: rgba(137, 43, 226, 0.356);
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.play{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 30vw;
+    height: auto;
+    align-items: end;
+}
